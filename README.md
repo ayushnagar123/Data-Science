@@ -5,6 +5,8 @@
   
  * Intro to Data Scinence and its scope.
 
+- [x] Data Science 
+
 - [x] Python-basics
 
 
@@ -25,7 +27,7 @@
 
 - [x] Challenge-Chuck Norris Jokes
 
-- [ ] Data Acquisition-Web Crawler using Scrapy
+- [x] Data Acquisition-Web Crawler using Scrapy
 
 - [ ] Challenge- Scrap a Shopping Website
 
