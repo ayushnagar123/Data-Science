@@ -41,11 +41,11 @@ class BooksSpider(scrapy.Spider):
                 for j,title in  enumerate(prod.keys()):
                     if(j<len(prod.keys())-1):
                         if(',' in title):
-                            title='\"'+title+'"'
-                        column_title+=title+','
+                            title='"'+title+"'"
+                            column_title+=title+','
                     else:
                         if(',' in title):
-                            title='\"'+title+'"'
+                            title="'"+title+"'"
                         column_title+=title
                         break
 
