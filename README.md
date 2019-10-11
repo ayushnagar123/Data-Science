@@ -29,23 +29,23 @@
 
 - [x] Data Acquisition-Web Crawler using Scrapy
 
-- [ ] Challenge- Scrap a Shopping Website
+- [x] Challenge- Scrap a Shopping Website
 
-- [ ] Getting Started with Machine Learning
+- [x] Getting Started with Machine Learning
 
-- [ ] LInear Algebra Concepts
+- [x] LInear Algebra Concepts
 
-- [ ] Numpy. Matrix & Linear Algebra
+- [x] Numpy. Matrix & Linear Algebra
 
-- [ ] Data Visualization
+- [x] Data Visualization
 
-- [ ] Probability Distribution & Statisics
+- [x] Probability Distribution & Statisics
 
-- [ ] Data Analysis using Pandas
+- [x] Data Analysis using Pandas
 
-- [ ] K-Nearest Neighbours
+- [x] K-Nearest Neighbours
 
-- [ ] Challenges-Nearest Neighbors
+- [x] Challenges-Nearest Neighbors
 
 - [ ] Project- Face Recognition
 
