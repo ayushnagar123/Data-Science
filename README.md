@@ -136,3 +136,5 @@
 - [ ] All Challenges
 
 - [ ] Capstone Project- AI Image Caption Cot
+
+- [ ] web and ML
